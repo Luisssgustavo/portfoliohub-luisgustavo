@@ -13,8 +13,8 @@ Desenvolver uma plataforma de portfólio digital integrando Google Workspace, Gi
 - Google Chrome
 
 ## 📁 Estrutura do Repositório
-- `0273 - Plano de Implantacao.pdf`: Documento detalhado com as etapas do projeto
-- `0273 - POLITICA DE SEGURANCA.pdf`: Diretrizes de acesso e proteção de dados
+- `0273-Plano-Implantacao.pdf: Documento detalhado com as etapas do projeto
+- `0273-POLITICA-DE-SEGURANCA.pdf: Diretrizes de acesso e proteção de dados
 - `Calender.jpeg`: Print do cronograma no Google Calendar
 - `image.png`: Print da estrutura de pastas ou outras evidências
 
