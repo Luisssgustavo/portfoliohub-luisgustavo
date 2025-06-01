@@ -26,3 +26,7 @@ Desenvolver uma plataforma de portfólio digital integrando Google Workspace, Gi
 **Luis Gustavo**  
 Desafio Bootcamp I – 2025  
 Professor: Marcelo Carboni Gomes
+
+## 🔗 Links Importantes
+- [Link para o site do PortfolioHUB](#) https://luisssgustavo.github.io/portfoliohub-luisgustavo/
+- [Link para o vídeo da apresentação final](#) *(insira o link do YouTube, quando pronto)*
