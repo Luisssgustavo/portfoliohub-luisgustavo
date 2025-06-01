@@ -18,15 +18,12 @@ Desenvolver uma plataforma de portfólio digital integrando Google Workspace, Gi
 - `Calender.jpeg`: Print do cronograma no Google Calendar
 - `image.png`: Print da estrutura de pastas ou outras evidências
 
-## 🔗 Links Importantes
-- [Link para o site do PortfolioHUB](#) *(insira o link do seu Google Sites ou GitHub Pages)*
-- [Link para o vídeo da apresentação final](#) *(insira o link do YouTube, quando pronto)*
+## 🔗 Link Importante
+- [Link para o site do PortfolioHUB](#)(https://luisssgustavo.github.io/portfoliohub-luisgustavo/)
+
 
 ## 👨‍💻 Autor
 **Luis Gustavo**  
 Desafio Bootcamp I – 2025  
 Professor: Marcelo Carboni Gomes
 
-## 🔗 Links Importantes
-- [Link para o site do PortfolioHUB](#) https://luisssgustavo.github.io/portfoliohub-luisgustavo/
-- [Link para o vídeo da apresentação final](#) *(insira o link do YouTube, quando pronto)*
